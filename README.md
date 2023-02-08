@@ -20,7 +20,9 @@ The following annotation tracks have been annotated for all the
 conversations:
 
 words: 	      		 word-aligned orthographic transcription;
+
 translation:		   utterance-aligned English translation;
+
 HeadMovements:		 annotation of head movement type.
 
 All head movements were annotated by two expert annotators (in some cases 
@@ -31,8 +33,11 @@ to run an inter-annotator agreement test.
 The results of the test, averaged for both speakers, are as follows.
 
 Percentage = 89.9281
+
 Cohen's kappa = 0.5402
+
 Corrected kappa = 0.8881
+
 K's alfa = 0.54745
 
 

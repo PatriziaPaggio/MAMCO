@@ -4,7 +4,7 @@
 Patrizia Paggio
 
 
-This repository contains a zipped archived with annotations of 12
+This repository contains a zipped archive with annotations of 12
 video-recorded Maltese conversations. The annotations were created
 manually using the ANVIL 6.0 tool for video annotation 
 (http://www.anvil-software.de), and follow the xml format used by the tool.
